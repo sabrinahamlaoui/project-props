@@ -27,7 +27,7 @@ const Profile =(props) => (
     </div>
 );
 Profile.defaultProps ={
-    FullName:25,
+    FullName:"Elisabeth",
     Bio:"Hello"
 }
 
